@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="task4_1P" project="task4_1P" tests="13" started="13" failures="0" errors="0" ignored="0">
+  <testsuite name="sit707_week4.LoginFormTest" time="0.025">
+    <testcase name="testStudentIdentity" classname="sit707_week4.LoginFormTest" time="0.011"/>
+    <testcase name="testFailCorrectUsernameAndEmptyPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.009"/>
+    <testcase name="testFailWrongUsernameAndWrongPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.001"/>
+    <testcase name="testSuccessCorrectUsernameAndPasswordWithEmptyValidationCode" classname="sit707_week4.LoginFormTest" time="0.0"/>
+    <testcase name="testFailWrongUsernameAndCorrectPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.001"/>
+    <testcase name="testSuccessCorrectUsernameAndPasswordWithCorrectValidationCode" classname="sit707_week4.LoginFormTest" time="0.0"/>
+    <testcase name="testFailWrongUsernameAndEmptyPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.0"/>
+    <testcase name="testSuccessCorrectUsernameAndPasswordWithWrongValidationCode" classname="sit707_week4.LoginFormTest" time="0.001"/>
+    <testcase name="testFailEmptyUsernameAndWrongPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.0"/>
+    <testcase name="testFailCorrectUsernameAndWrongPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.001"/>
+    <testcase name="testFailEmptyUsernameAndCorrectPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.0"/>
+    <testcase name="testStudentName" classname="sit707_week4.LoginFormTest" time="0.0"/>
+    <testcase name="testFailEmptyUsernameAndEmptyPasswordAndDontCareValCode" classname="sit707_week4.LoginFormTest" time="0.0"/>
+  </testsuite>
+</testrun>

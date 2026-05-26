@@ -1,0 +1,32 @@
+# Maven build directory
+target/
+
+# IDE
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE - Eclipse
+.eclipse
+.metadata
+bin/
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
