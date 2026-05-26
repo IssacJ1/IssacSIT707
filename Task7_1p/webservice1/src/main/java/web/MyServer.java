@@ -13,7 +13,7 @@ import web.handler.WelcomeServlet;
  */
 public class MyServer {
 	
-	private static int PORT = 8082;
+	private static int PORT = 8000;
 	
 	public void start() throws Exception {
 		// HTTP server listening on port 8082.
